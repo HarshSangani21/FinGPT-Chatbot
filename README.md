@@ -17,7 +17,7 @@
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/HarshSangani21/FinGPT-Chatbot.git
-   cd FinGPT
+   cd FinGPT-Chatbot
    ```
 
 2. **Install Dependencies**:
