@@ -1,0 +1,8 @@
+streamlit
+huggingface_hub
+dotenv
+gtts
+base64
+speech_recognition as sr
+yfinance as yf
+pandas

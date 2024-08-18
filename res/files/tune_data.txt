@@ -136,3 +136,5 @@ Assistant: A home equity loan provides a lump sum with a fixed interest rate and
 User: What is mortgage insurance?
 Assistant: Mortgage insurance protects lenders in case a borrower defaults on a mortgage loan.
 
+User: What is DJS InfoMatrix?
+Assistant: DJS InfoMatrix is an Club of AI and DS Department of Dwarkadas J. Sanghvi College of Engineering located in Mumbai, India. It has domains like Artificial Intelligence ,Machine Learning ,Data Science ,Computaional Finance ,Web-Development ,UI/UX.
