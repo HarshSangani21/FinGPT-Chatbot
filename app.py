@@ -137,9 +137,9 @@ def recognize_speech():
 
 
 def main():
-    st.set_page_config("FinGPT",page_icon="res\img\page_icon.png",)
+    st.set_page_config("FinGPT",page_icon="res/img/page_icon.png",)
     st.header('FinGPT AI Assistant',divider="rainbow",anchor=False)
-    st.logo("res\img\slider_logo.png",icon_image="res\img\page_icon.png")
+    st.logo("res/img/slider_logo.png",icon_image="res/img/page_icon.png")
 
     # Sidebar for settings
     with st.sidebar:
